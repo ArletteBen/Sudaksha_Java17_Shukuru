@@ -1,0 +1,11 @@
+# Ignore compiled class files
+*.class
+
+# Ignore target directory
+/target/
+
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+.metadata/
